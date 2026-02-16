@@ -1,35 +1,32 @@
 <h1 align="center">Olá 👋, eu sou Cauã</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+formação;Full+Stack+Web;Criando+projetos+reais;Aprendendo+IA" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Caua54&label=Visualizações&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack+em+formação;Construindo+aplicações+web+reais;Interessado+em+IA+e+automação;Buscando+experiência+profissional" />
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 Quem sou eu
+
 🎓 Estudante da UEPB  
-💻 Focado em desenvolvimento Full Stack  
-🚀 Criando sistemas próprios para aprender de verdade  
-🤝 Aberto a freelas e experiências como dev iniciante  
+💻 Desenvolvedor Full Stack em formação  
+🚀 Criando projetos próprios para evoluir na prática  
+🤝 Aberto a freelas e oportunidades como desenvolvedor iniciante  
 
-> Transformando estudo em experiência prática.
+> Transformando estudo em aplicações reais.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Stack
 
-### Linguagens
+### 💻 Linguagens
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-### Frameworks & Banco de Dados
+### ⚙️ Frameworks & Banco de Dados
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -37,41 +34,50 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
----
-
-## 🚀 Projeto em destaque — Studio Codar
-Sistema para facilitar o aprendizado de programação:
-- Chat com IA
-- Templates prontos
-- Ambiente interativo
+### 🛠 Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 ---
 
-## 📊 Estatísticas
+## 🚀 Projeto principal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caua54&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img src="https://streak-stats.demolab.com?user=Caua54&theme=tokyonight&hide_border=true"/>
-</p>
+### 🧠 Studio Codar
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caua54&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
+Sistema criado para facilitar o aprendizado de programação:
 
----
+- Chat com IA integrado  
+- Templates prontos para estudo  
+- Ambiente interativo  
+- Foco em iniciantes  
 
-## 🐍 Contribuições animadas
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Caua54/Caua54/output/github-contribution-grid-snake.svg" />
-</p>
+📌 Projeto em desenvolvimento ativo.
 
 ---
 
-## 📈 Atividade recente
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Caua54&theme=tokyo-night&hide_border=true"/>
-</p>
+## 📖 Em evolução
+
+Atualmente aprofundando conhecimentos em:
+
+- React  
+- Node.js  
+- PostgreSQL  
+- Arquitetura de aplicações web  
 
 ---
 
-<h3 align="center">⚡ Sempre aprendendo, sempre construindo.</h3>
+## 🎯 Meta profissional
+
+Ganhar experiência prática desenvolvendo aplicações reais e evoluir como desenvolvedor profissional.
+
+---
+
+## 💡 Áreas de interesse
+
+Front-end • Back-end • Inteligência Artificial • Aplicações Web
+
+---
+
+<h3 align="center">⚡ Sempre aprendendo. Sempre construindo.</h3>
