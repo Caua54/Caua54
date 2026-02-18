@@ -42,21 +42,6 @@
 
 ---
 
-## 🚀 Projeto principal
-
-### 🧠 Studio Codar
-
-Sistema criado para facilitar o aprendizado de programação:
-
-- Chat com IA integrado  
-- Templates prontos para estudo  
-- Ambiente interativo  
-- Foco em iniciantes  
-
-📌 Projeto em desenvolvimento ativo.
-
----
-
 ## 📖 Em evolução
 
 Atualmente aprofundando conhecimentos em:
