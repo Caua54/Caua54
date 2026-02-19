@@ -1,6 +1,3 @@
-<div align="center">
-  <h1>Olá 👋</h1>
-</div>
 
 <img src="assets/dragon.png" width="210px" align="right" alt="dragon art" />
 
