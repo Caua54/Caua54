@@ -1,5 +1,5 @@
 
-<img src="assets/dragon.png" width="210px" align="right" alt="dragon art" />
+<img src="assets/dragon.png" width="230px" align="right" alt="dragon art" />
 
 <h2>
 🧠 Sobre mim
